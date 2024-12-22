@@ -26,42 +26,10 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-Usage Instructions:
-
-Preprocess the data:
-
-python src/preprocessing.py
-
-Train the model:
-
-python src/train_model.py
-
-Test the model:
-
-python src/predict.py
-
-Project Features:
-
-Dataset preprocessing and cleaning.
 
 Revenue prediction using machine learning models.
-Revenue prediction using machine learning models.
 
-API endpoint for predictions.
 
-Cloud deployment ready.
-
-Contribution Guidelines:
-
-Fork the repository.
-
-Create a feature branch:
-
-git checkout -b feature-branch-name
-
-Commit your changes:
-
-git commit -m 'Add meaningful message'
 
 Push to the branch:
 
